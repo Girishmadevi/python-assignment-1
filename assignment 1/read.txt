@@ -1,0 +1,10 @@
+Values: 'hello', -87.8, 6 and Expression: *, -, /, +
+String is a word or group of words that can be taken as a value. String is always written in '' or "". Whereas variable is a storage for values. It can store values and can be chnaged according to user.
+The three different datatypes are integer,float and char. Integer is a datatype which stores numbers. Float is a datatype that stores only decimal values. Char is a datatype that stores only alphabets.
+Expression is a combination of values and mathematical operations that gives a value. All expressions do some operation and gives a value as solution.
+Expression ia a function that perform mathematical operations and gives a value. Whereas statement is a declaration or assignment of values.
+23
+spamspamspam is the for both 
+eggs is a word starting with alphabets but 100 is a numeric value. Variable should always starts with alphabet and underscore.
+For integer value the function id int(), floatingpoint is float(), for the string str().
+The given expression 'i have eaten'+99+'burritos' is an error because we cannot concatenate the string and integer. To correct the 99 should be added in the form of string.we can corret it as 'I have eaten'+str(99)+'burritos.
